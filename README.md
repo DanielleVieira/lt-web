@@ -9,7 +9,7 @@ O sistema permite o cadastro de lares temporários, visualização e filtragem d
 ## 🌐 Deploy
 A aplicação está disponível em produção no link abaixo:
 
-👉 https://lartemporario.netlify.app/home
+👉 https://lartemporario.netlify.app
 
 ---
 
